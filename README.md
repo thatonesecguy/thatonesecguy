@@ -6,7 +6,7 @@
 ## I'm a Hacker, Security Researcher (Wannabe), Consultant, and Mentor!!
 
 - 🔭 I'm a Red Teamer and a Penetration Tester!
-- 📕 I love to blog about pretty much everything hacking : [ Check out my Blog! ][blog]
+- 📕 I love to blog about pretty much everything hacking : [ A Cyberpunk's Dwelling ][blog]
 - 🌱 I’m currently learning more hacking and stuff 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
