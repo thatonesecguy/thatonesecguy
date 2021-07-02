@@ -1,6 +1,6 @@
 ### Hi there, I'm Harshil - aka [thatonesecguy][website] 👋
 
-[![Website](https://img.shields.io/website?label=1337haxx.wordpress.com&style=for-the-badge&url=https://1337haxx.wordpress.com/)](https://1337haxx.wordpress.com/)
+[![Website](https://img.shields.io/website?label=thatonesecguy.medium.com&style=for-the-badge&url=https://thatonesecguy.medium.com/)](https://thatonesecguy.medium.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thatonesecguy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthatonesecguy&screen_name=thatonesecguy)
 
 ## I'm a Hacker, Security Researcher (Wannabe), Consultant, and Mentor!!
