@@ -9,7 +9,7 @@
 - 📕 I love to blog about pretty much everything hacking : [ A Cyberpunk's Dwelling ][blog]
 - 🌱 I’m currently learning more hacking and stuff 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects & develop an OffSec Thought Leadership
 - ⚡ Fun fact: I love to hit the gym and groove to funky music!
 
 ### Spotify Playing 🎧
