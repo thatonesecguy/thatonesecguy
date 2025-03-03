@@ -3,14 +3,14 @@
 [![Website](https://img.shields.io/website?label=thatonesecguy.medium.com&style=for-the-badge&url=https://thatonesecguy.medium.com/)](https://thatonesecguy.medium.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/thatonesecguy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fthatonesecguy&screen_name=thatonesecguy)
 
-## I'm a Hacker, Security Researcher (Wannabe), Consultant, and Mentor!!
+## I'm a Hacker, Security Researcher, Consultant, and Mentor!!
 
 - 🔭 I'm a Red Teamer and a Penetration Tester!
 - 📕 I love to blog about pretty much everything hacking : [ A Cyberpunk's Dwelling ][blog]
 - 🌱 I’m currently learning more hacking and stuff 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Contribute more to Open Source projects & develop an OffSec Thought Leadership
-- ⚡ Fun fact: I love to code and groove to funky music!
+- 🥅 2025 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to code , hit the gym and groove to funky music!
 
 ### Spotify Playing 🎧
 
